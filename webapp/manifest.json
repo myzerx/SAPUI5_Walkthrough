@@ -84,6 +84,13 @@
                 "settings": {}
             }
         },
+	"resources": {
+	  "css": [
+		{
+		  "uri": "css/style.css"
+		}
+	  ]
+	},
         "rootView": {
             "viewName": "sap.ui.demo.walkthrough.view.App",
             "type": "XML",
